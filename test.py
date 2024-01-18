@@ -35,7 +35,6 @@ for i in range(5):
     dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
     sample = dataset[i]["audio"]
 
-    print(sample)
     orig_len = sample["array"]
     orig_len = len(orig_len)/sample["sampling_rate"]
 
@@ -47,5 +46,6 @@ for i in range(5):
     f.write(result["text"] + "\n")
     f.write(f"audio length: {orig_len}\n")
     f.write(f"Time elapsed: {end - start}\n")
+    f.write(f"Real time factor: {(end - start)/orig_len}\n\n")
 
 f.close()
