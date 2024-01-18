@@ -31,9 +31,10 @@ if os.path.exists("results.txt"):
 f = open("results.txt", "w")
 
 # write to f
-for i in range(10):
+for i in range(1):
     dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
     sample = dataset[i]["audio"]
+    print(sample)
 
     start = time.time()
     result = pipe(sample)
@@ -41,6 +42,7 @@ for i in range(10):
 
     f.write(f"======= Audio {i} =======\n")
     f.write(result["text"] + "\n")
-    f.write(f'Time elapsed: {end - start}\n')
+    f.write(f"audio length: {len(sample['array'])/sample['sampling_rate']}\n") 
+    f.write(f"Time elapsed: {end - start}\n")
 
 f.close()
