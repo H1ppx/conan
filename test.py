@@ -30,16 +30,16 @@ if os.path.exists("results.txt"):
     os.remove("results.txt")
 f = open("results.txt", "w")
 
-# write to f
-for i in range(5):
-    dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
-    sample = dataset[i]["audio"]
+dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
 
-    orig_len = sample["array"]
-    orig_len = len(orig_len)/sample["sampling_rate"]
+for sample in dataset:
+    audio = sample["audio"]
+
+    orig_len = audio["array"]
+    orig_len = len(orig_len)/audio["sampling_rate"]
 
     start = time.time()
-    result = pipe(sample)
+    result = pipe(audio)
     end = time.time()
 
     f.write(f"======= Audio {i} =======\n")
