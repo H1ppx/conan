@@ -34,15 +34,17 @@ f = open("results.txt", "w")
 for i in range(1):
     dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
     sample = dataset[i]["audio"]
-    print(sample)
 
     start = time.time()
     result = pipe(sample)
     end = time.time()
 
+    orig_len = sample['array']
+    orig_len = len(orig_len)/sample['sampling_rate']
+
     f.write(f"======= Audio {i} =======\n")
     f.write(result["text"] + "\n")
-    f.write(f"audio length: {len(sample['array'])/sample['sampling_rate']}\n") 
+    f.write(f"audio length: {orig_len}\n")
     f.write(f"Time elapsed: {end - start}\n")
 
 f.close()
