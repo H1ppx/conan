@@ -25,12 +25,15 @@ pipe = pipeline(
     device=device,
 )
 
-dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
-sample = dataset[0]["audio"]
+for i in range(10):
+    dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
+    sample = dataset[i]["audio"]
 
-start = time.time()
-result = pipe(sample)
-print(result["text"])
-end = time.time()
-print(f'Time elapsed: {end - start}')
+    start = time.time()
+    result = pipe(sample)
+    end = time.time()
+
+    print(f"======= Audio {i} =======")
+    print(result["text"])
+    print(f'Time elapsed: {end - start}')
 
