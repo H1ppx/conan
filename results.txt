@@ -1,0 +1,438 @@
+======= Audio ID: 1272-128104-0000 =======
+ Mr. Quilter is the Apostle of the Middle Classes, and we are glad to welcome his Gospel.
+audio length: 5.855
+Time elapsed: 13.341656923294067
+Real time factor: 2.2786775274626927
+
+======= Audio ID: 1272-128104-0001 =======
+ Nor is Mr. Quilter's manner less interesting than his matter.
+audio length: 4.815
+Time elapsed: 12.15540885925293
+Real time factor: 2.5244878212363298
+
+======= Audio ID: 1272-128104-0002 =======
+ He tells us that at this festive season of the year, with Christmas and roast beef looming before us, similes drawn from eating and its results occur most readily to the mine.
+audio length: 12.485
+Time elapsed: 16.63392734527588
+Real time factor: 1.3323129631778838
+
+======= Audio ID: 1272-128104-0003 =======
+ He has grave doubts whether Sir Frederick Layton's work is really Greek after all, and can discover in it but little of Rocky Ithaca.
+audio length: 9.9
+Time elapsed: 15.184028387069702
+Real time factor: 1.5337402411181518
+
+======= Audio ID: 1272-128104-0004 =======
+ Linnell's pictures are a sort of up-guards-and-atham paintings, and Mason's exquisite idols are as national as a jingo poem. Mr. Burkett fosters landscapes smile at one much in the same way that Mr. Karker used to flash his teeth. And Mr. John Kalyar gives his sitter a cheerful slap in the back, before he says, like a shampoo and a Turkish bath, next man...
+audio length: 29.4
+Time elapsed: 29.192877769470215
+Real time factor: 0.9929550261724563
+
+======= Audio ID: 1272-128104-0005 =======
+ It is obviously unnecessary for us to point out how luminous these criticisms are, how delicate in expression.
+audio length: 9.01
+Time elapsed: 16.679885625839233
+Real time factor: 1.851263665464954
+
+======= Audio ID: 1272-128104-0006 =======
+ On the general principles of art, Mr. Quilter writes with equal lucidity.
+audio length: 5.64
+Time elapsed: 14.203378438949585
+Real time factor: 2.518329510452054
+
+======= Audio ID: 1272-128104-0007 =======
+ Painting, he tells us, is of a different quality to mathematics, and finish in art is adding more factor.
+audio length: 9.24
+Time elapsed: 15.269645929336548
+Real time factor: 1.6525590832615311
+
+======= Audio ID: 1272-128104-0008 =======
+ As for etchings, they are of two kinds, British and foreign.
+audio length: 5.12
+Time elapsed: 14.17418122291565
+Real time factor: 2.7683947701007128
+
+======= Audio ID: 1272-128104-0009 =======
+ He laments most bitterly the divorce that has been made between decorative art and what we usually call pictures, makes a customary appeal to the last judgment, and reminds us that in the great days of art Michelangelo was the furnishing upholsterer.
+audio length: 18.29
+Time elapsed: 21.22312593460083
+Real time factor: 1.1603677383598048
+
+======= Audio ID: 1272-128104-0010 =======
+ near the fire, and the ornaments Fred brought home from India on the mental board.
+audio length: 5.6
+Time elapsed: 15.293293952941895
+Real time factor: 2.730945348739624
+
+======= Audio ID: 1272-128104-0011 =======
+ In fact, he is quite severe on Mr. Ruskin for not recognizing that a picture should denote the frailty of man, and remarks with pleasing courtesy and felicitous grace that many phases of feeling
+audio length: 15.115
+Time elapsed: 19.518693208694458
+Real time factor: 1.291345895381704
+
+======= Audio ID: 1272-128104-0012 =======
+ Only, unfortunately, his own work never does get good.
+audio length: 5.38
+Time elapsed: 14.209776163101196
+Real time factor: 2.6412223351489215
+
+======= Audio ID: 1272-128104-0013 =======
+ Mr. Quilter has missed his chance, for he has failed even to make himself the tupper of painting.
+audio length: 7.1
+Time elapsed: 16.11058807373047
+Real time factor: 2.269096911793024
+
+======= Audio ID: 1272-128104-0014 =======
+ by Harry Quilter M.A.
+audio length: 2.245
+Time elapsed: 13.777687549591064
+Real time factor: 6.13705458779112
+
+======= Audio ID: 1272-135031-0000 =======
+ Because you are sleeping instead of conquering, the lovely rose princess has become a fiddle without a bow, while poor Shaggy sits there, a cooing dove.
+audio length: 10.885
+Time elapsed: 18.334386110305786
+Real time factor: 1.6843717143138068
+
+======= Audio ID: 1272-135031-0001 =======
+ "'He has gone, and gone for good,' answered Polychrome, who had managed to squeeze into the room beside the dragon, and had witnessed the occurrences with much interest.
+audio length: 11.13
+Time elapsed: 19.799686670303345
+Real time factor: 1.778947589425278
+
+======= Audio ID: 1272-135031-0002 =======
+ I have remained a prisoner only because I wished to be one." And with this he stepped forward and burst the stout chains as easily as if they had been threads.
+audio length: 11.475
+Time elapsed: 17.02247667312622
+Real time factor: 1.483440232952176
+
+======= Audio ID: 1272-135031-0003 =======
+ The little girl had been asleep, but she heard the wraps and opened the door.
+audio length: 4.755
+Time elapsed: 12.967558860778809
+Real time factor: 2.7271417162521154
+
+======= Audio ID: 1272-135031-0004 =======
+ The king is flood of disgrace and your friends are asking for you.
+audio length: 4.225
+Time elapsed: 13.114929437637329
+Real time factor: 3.1041253106833917
+
+======= Audio ID: 1272-135031-0005 =======
+ I begged Rugado long ago to send him away, but he would not do so.
+audio length: 4.625
+Time elapsed: 13.787205457687378
+Real time factor: 2.9810173962567306
+
+======= Audio ID: 1272-135031-0006 =======
+ I also offered to help your brother to escape, but he would not go.
+audio length: 4.09
+Time elapsed: 34.46011543273926
+Real time factor: 8.425456096024268
+
+======= Audio ID: 1272-135031-0007 =======
+ He eats and sleeps very steadily, replied the new king.
+audio length: 4.055
+Time elapsed: 28.593624353408813
+Real time factor: 7.051448669151372
+
+======= Audio ID: 1272-135031-0008 =======
+ I hope he doesn't work too hard," said Shaggy.
+audio length: 3.67
+Time elapsed: 14.233651876449585
+Real time factor: 3.87837925788817
+
+======= Audio ID: 1272-135031-0009 =======
+ He doesn't work at all.
+audio length: 1.91
+Time elapsed: 11.254168510437012
+Real time factor: 5.892234822218331
+
+======= Audio ID: 1272-135031-0010 =======
+ In fact, there is nothing he can do in these dominions as well as our gnomes, whose numbers are so great that it worries us to keep them all busy.
+audio length: 8.995
+Time elapsed: 17.69204020500183
+Real time factor: 1.9668749533075967
+
+======= Audio ID: 1272-135031-0011 =======
+ Not exactly, we've turned calico.
+audio length: 3.18
+Time elapsed: 11.867623090744019
+Real time factor: 3.7319569467748486
+
+======= Audio ID: 1272-135031-0012 =======
+ Where is my brother now?
+audio length: 2.04
+Time elapsed: 10.96387243270874
+Real time factor: 5.374447270935657
+
+======= Audio ID: 1272-135031-0013 =======
+ inquired Shaggy in the metal forest.
+audio length: 3.7
+Time elapsed: 15.400514602661133
+Real time factor: 4.162301243962468
+
+======= Audio ID: 1272-135031-0014 =======
+ Where is that?
+audio length: 1.74
+Time elapsed: 14.392621994018555
+Real time factor: 8.271621835642847
+
+======= Audio ID: 1272-135031-0015 =======
+ The metal forest is in the great domed cavern, the largest in all our dominions," replied Calico.
+audio length: 7.375
+Time elapsed: 19.0393705368042
+Real time factor: 2.581609564312434
+
+======= Audio ID: 1272-135031-0016 =======
+ Calico hesitated.
+audio length: 2.28
+Time elapsed: 15.179397583007812
+Real time factor: 6.657630518863076
+
+======= Audio ID: 1272-135031-0017 =======
+ However, if we look sharp, we may be able to discover one of these secret ways.
+audio length: 6.86
+Time elapsed: 18.58554434776306
+Real time factor: 2.7092630244552565
+
+======= Audio ID: 1272-135031-0018 =======
+ Oh no, I'm quite sure he didn't.
+audio length: 2.4449375
+Time elapsed: 16.959046840667725
+Real time factor: 6.93639278740979
+
+======= Audio ID: 1272-135031-0019 =======
+ That's funny, remarked Bitzy thoughtfully.
+audio length: 3.525
+Time elapsed: 16.750887870788574
+Real time factor: 4.752024927883284
+
+======= Audio ID: 1272-135031-0020 =======
+ I don't believe Anne knew any magic or she'd have worked it before.
+audio length: 4.65
+Time elapsed: 18.20327353477478
+Real time factor: 3.914682480596727
+
+======= Audio ID: 1272-135031-0021 =======
+ I do not know, confessed Shaggy.
+audio length: 2.595
+Time elapsed: 16.46474289894104
+Real time factor: 6.344794951422366
+
+======= Audio ID: 1272-135031-0022 =======
+ True, agreed Calico.
+audio length: 2.695
+Time elapsed: 15.677918910980225
+Real time factor: 5.817409614463905
+
+======= Audio ID: 1272-135031-0023 =======
+ Calico went to the big gong and pounded on it just as Vurgado used to do, but no one answered the summons.
+audio length: 7.52
+Time elapsed: 20.984086990356445
+Real time factor: 2.7904370997814425
+
+======= Audio ID: 1272-135031-0024 =======
+ Having returned to the royal cavern, Calico first pounded the gong and then sat in the throne, wearing Rugato's discarded ruby crown and holding in his hand the scepter which Rugato had so often thrown at his head.
+audio length: 14.47
+Time elapsed: 25.85326313972473
+Real time factor: 1.7866802446250678
+
+======= Audio ID: 1272-141231-0000 =======
+ A man said to the universe, Sir, I exist.
+audio length: 4.65
+Time elapsed: 16.992026805877686
+Real time factor: 3.654199313091975
+
+======= Audio ID: 1272-141231-0001 =======
+ Sweat-covered Brienne's body, trickling into the tight-loin cloth that was the only garment he wore.
+audio length: 6.535
+Time elapsed: 20.598280429840088
+Real time factor: 3.151993944887542
+
+======= Audio ID: 1272-141231-0002 =======
+ The cut on his chest still dripping blood. The ache of his overstrained eyes. Even the soaring arena around him with the thousands of spectators. Retriviality is not worth thinking about.
+audio length: 13.335
+Time elapsed: 24.349222660064697
+Real time factor: 1.8259634540730931
+
+======= Audio ID: 1272-141231-0003 =======
+ His instant panic was followed by a small sharp blow high on his chest.
+audio length: 5.42
+Time elapsed: 17.629499435424805
+Real time factor: 3.2526751725876024
+
+======= Audio ID: 1272-141231-0004 =======
+ One minute, a voice said, and a time buzzer sounded.
+audio length: 5.09
+Time elapsed: 18.09214997291565
+Real time factor: 3.5544498964470823
+
+======= Audio ID: 1272-141231-0005 =======
+ A minute is not a very large measure of time, and his body needed every fraction of it.
+audio length: 5.81
+Time elapsed: 18.53143048286438
+Real time factor: 3.189574954021408
+
+======= Audio ID: 1272-141231-0006 =======
+ The buzzers were triggered as muscles into complete relaxation.
+audio length: 4.93
+Time elapsed: 18.797236680984497
+Real time factor: 3.8128269129786
+
+======= Audio ID: 1272-141231-0007 =======
+ Only his heart and lungs worked on at a strong measured rate.
+audio length: 4.735
+Time elapsed: 17.647626638412476
+Real time factor: 3.7270594801293506
+
+======= Audio ID: 1272-141231-0008 =======
+ He was in reverie, sliding along the borders of consciousness.
+audio length: 4.595
+Time elapsed: 17.889606952667236
+Real time factor: 3.8932768123323696
+
+======= Audio ID: 1272-141231-0009 =======
+ The contestants in the twenties needed undisturbed rest. Therefore nights in the dormitories were as quiet as death.
+audio length: 8.62
+Time elapsed: 20.652870893478394
+Real time factor: 2.3959246976193036
+
+======= Audio ID: 1272-141231-0010 =======
+ Particularly so on this last night, when only two of the little cubicles were occupied, the thousands of others standing with dark empty doors.
+audio length: 10.76
+Time elapsed: 21.10739541053772
+Real time factor: 1.961653848562985
+
+======= Audio ID: 1272-141231-0011 =======
+ The other voice snapped with a harsh urgency clearly used to command.
+audio length: 5.015
+Time elapsed: 17.649879932403564
+Real time factor: 3.5194177332808705
+
+======= Audio ID: 1272-141231-0012 =======
+ I'm here because the matter is of utmost importance, and brand is the one I must see. Now stand aside.
+audio length: 7.74
+Time elapsed: 20.169691801071167
+Real time factor: 2.6059033334717268
+
+======= Audio ID: 1272-141231-0013 =======
+ the 20s.
+audio length: 1.6399375
+Time elapsed: 16.272358179092407
+Real time factor: 9.922547767273086
+
+======= Audio ID: 1272-141231-0014 =======
+ He must have drawn his gun because the intruder said quickly, But that away, you're being a fool. Out.
+audio length: 7.305
+Time elapsed: 20.66346001625061
+Real time factor: 2.828673513518222
+
+======= Audio ID: 1272-141231-0015 =======
+ There was silence then, and, still wondering, Brienne was once more asleep.
+audio length: 5.68
+Time elapsed: 19.046091079711914
+Real time factor: 3.3531850492450554
+
+======= Audio ID: 1272-141231-0016 =======
+ 10 seconds.
+audio length: 1.85
+Time elapsed: 16.0539710521698
+Real time factor: 8.677822190362054
+
+======= Audio ID: 1272-141231-0017 =======
+ He asked the handler who was needing his aching muscles.
+audio length: 3.735
+Time elapsed: 14.090896606445312
+Real time factor: 3.77266308070825
+
+======= Audio ID: 1272-141231-0018 =======
+ A red-haired mountain of a man with an apparently inexhaustible store of energy.
+audio length: 6.0
+Time elapsed: 16.209048986434937
+Real time factor: 2.7015081644058228
+
+======= Audio ID: 1272-141231-0019 =======
+ There could be a little art in this last and final round of fencing.
+audio length: 4.7
+Time elapsed: 14.872960090637207
+Real time factor: 3.164459593752597
+
+======= Audio ID: 1272-141231-0020 =======
+ Just thrust and parry and victory to the stronger.
+audio length: 4.32
+Time elapsed: 13.126536130905151
+Real time factor: 3.038550030302118
+
+======= Audio ID: 1272-141231-0021 =======
+ Every man who entered the 20s had his own training tricks.
+audio length: 4.65
+Time elapsed: 13.832220792770386
+Real time factor: 2.9746711382301902
+
+======= Audio ID: 1272-141231-0022 =======
+ There appeared to be an immediate association with the death trauma, as if the two were inextricably linked into one.
+audio length: 8.35
+Time elapsed: 16.899952173233032
+Real time factor: 2.02394636805186
+
+======= Audio ID: 1272-141231-0023 =======
+ The strength that enables someone in a trance to hold his body stiff and unsupported except at two points, the head and heals.
+audio length: 8.66
+Time elapsed: 17.843170881271362
+Real time factor: 2.060412341948194
+
+======= Audio ID: 1272-141231-0024 =======
+ This is physically impossible when conscious.
+audio length: 3.64
+Time elapsed: 12.381627321243286
+Real time factor: 3.401545967374529
+
+======= Audio ID: 1272-141231-0025 =======
+ Others had died before during the 20s, and death during the last round was, in some ways, easier than defeat.
+audio length: 8.725
+Time elapsed: 16.551635265350342
+Real time factor: 1.8970355604986067
+
+======= Audio ID: 1272-141231-0026 =======
+ Breathing deeply, Brienne softly spoke the auto-hypnotic phrases that triggered the process.
+audio length: 6.635
+Time elapsed: 16.186399221420288
+Real time factor: 2.439547734954075
+
+======= Audio ID: 1272-141231-0027 =======
+ When the buzzer sounded, he pulled his foil from his second startled grasp and ran forward.
+audio length: 6.57
+Time elapsed: 15.339438915252686
+Real time factor: 2.3347700023215654
+
+======= Audio ID: 1272-141231-0028 =======
+ Our role looked amazed at the sudden fury of the attack, then smiled.
+audio length: 5.65
+Time elapsed: 14.160858869552612
+Real time factor: 2.5063467025756836
+
+======= Audio ID: 1272-141231-0029 =======
+ He thought it was the last burst of energy. He knew how close they both were to exhaustion.
+audio length: 6.88
+Time elapsed: 15.380977392196655
+Real time factor: 2.235607179098351
+
+======= Audio ID: 1272-141231-0030 =======
+ Breon saw something close to panic on his opponent's face when the man finally recognized his error.
+audio length: 7.13
+Time elapsed: 15.58370304107666
+Real time factor: 2.185652600431509
+
+======= Audio ID: 1272-141231-0031 =======
+ A wave of despair rolled out from our old re-encented it and knew the fifth point was his.
+audio length: 7.115
+Time elapsed: 16.9366135597229
+Real time factor: 2.3804094953932395
+
+======= Audio ID: 1272-141231-0032 =======
+ Then the powerful twist that thrusts to the side, in and under the guard,
+audio length: 4.48
+Time elapsed: 15.42105484008789
+Real time factor: 3.4421997410910468
+
