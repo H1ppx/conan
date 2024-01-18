@@ -31,7 +31,7 @@ if os.path.exists("results.txt"):
 f = open("results.txt", "w")
 
 # write to f
-for i in range(1):
+for i in range(5):
     dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
     sample = dataset[i]["audio"]
 
