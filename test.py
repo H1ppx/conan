@@ -35,13 +35,13 @@ for i in range(5):
     dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
     sample = dataset[i]["audio"]
 
-    start = time.time()
-    result = pipe(sample)
-    end = time.time()
-
     print(sample)
     orig_len = sample["array"]
     orig_len = len(orig_len)/sample["sampling_rate"]
+
+    start = time.time()
+    result = pipe(sample)
+    end = time.time()
 
     f.write(f"======= Audio {i} =======\n")
     f.write(result["text"] + "\n")
