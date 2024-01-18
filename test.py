@@ -39,8 +39,8 @@ for i in range(5):
     result = pipe(sample)
     end = time.time()
 
-    orig_len = sample['array']
-    orig_len = len(orig_len)/sample['sampling_rate']
+    orig_len = sample["array"]
+    orig_len = len(orig_len)/sample["sampling_rate"]
 
     f.write(f"======= Audio {i} =======\n")
     f.write(result["text"] + "\n")
