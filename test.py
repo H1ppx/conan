@@ -35,6 +35,7 @@ dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", spl
 for sample in dataset:
     audio = sample["audio"]
 
+
     orig_len = audio["array"]
     orig_len = len(orig_len)/audio["sampling_rate"]
 
@@ -42,7 +43,7 @@ for sample in dataset:
     result = pipe(audio)
     end = time.time()
 
-    f.write(f"======= Audio {i} =======\n")
+    f.write(f"======= Audio ID: {sample['id']} =======\n") 
     f.write(result["text"] + "\n")
     f.write(f"audio length: {orig_len}\n")
     f.write(f"Time elapsed: {end - start}\n")
