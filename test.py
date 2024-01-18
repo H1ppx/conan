@@ -1,3 +1,4 @@
+import os
 import time
 import torch
 from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline
@@ -25,6 +26,11 @@ pipe = pipeline(
     device=device,
 )
 
+if os.path.exists("results.txt"):
+    os.remove("results.txt")
+f = open("results.txt", "w")
+
+# write to f
 for i in range(10):
     dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
     sample = dataset[i]["audio"]
@@ -33,7 +39,8 @@ for i in range(10):
     result = pipe(sample)
     end = time.time()
 
-    print(f"======= Audio {i} =======")
-    print(result["text"])
-    print(f'Time elapsed: {end - start}')
+    f.write(f"======= Audio {i} =======\n")
+    f.write(result["text"] + "\n")
+    f.write(f'Time elapsed: {end - start}\n')
 
+f.close()
