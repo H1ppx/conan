@@ -39,6 +39,7 @@ for i in range(5):
     result = pipe(sample)
     end = time.time()
 
+    print(sample)
     orig_len = sample["array"]
     orig_len = len(orig_len)/sample["sampling_rate"]
 
