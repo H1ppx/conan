@@ -1,3 +1,4 @@
+import time
 import torch
 from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline
 from datasets import load_dataset
@@ -27,6 +28,9 @@ pipe = pipeline(
 dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
 sample = dataset[0]["audio"]
 
+start = time.time()
 result = pipe(sample)
 print(result["text"])
+end = time.time()
+print(f'Time elapsed: {end - start}')
 
