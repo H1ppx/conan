@@ -3,7 +3,7 @@ import time
 import nemo.collections.asr as nemo_asr
 from datasets import load_dataset
 
-asr_model = nemo_asr.models.EncDecRNNTBPEModel.from_pretrained(model_name="nvidia/parakeet-tdt-1.1b")
+asr_model = nemo_asr.models.ASRModels.from_pretrained(model_name="nvidia/parakeet-tdt-1.1b")
 
 dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
     
