@@ -19,7 +19,7 @@ for sample in dataset:
     orig_len = len(orig_len)/audio["sampling_rate"]
 
     start = time.time()
-    result = asr_model.transcribe([audio])
+    result = asr_model.transcribe(['2086-149220-0033.wav'])
     end = time.time()
 
     f.write(f"======= Audio ID: {sample['id']} =======\n") 
