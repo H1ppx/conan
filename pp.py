@@ -3,7 +3,7 @@ import time
 import nemo.collections.asr as nemo_asr
 from datasets import load_dataset
 
-asr_model = nemo_asr.models.ASRModel.from_pretrained(model_name="nvidia/parakeet-ctc-0.6b")
+asr_model = nemo_asr.models.ASRModel.from_pretrained(model_name="nvidia/stt_en_conformer_ctc_large")
 
 dataset = load_dataset("hf-internal-testing/librispeech_asr_dummy", "clean", split="validation")
     
@@ -29,4 +29,5 @@ for sample in dataset:
     f.write(f"Real time factor: {(end - start)/orig_len}\n\n")
 
 f.close()
-    
+
+# stt_en_conformer_ctc_large 120m parameters
